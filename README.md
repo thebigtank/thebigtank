@@ -35,12 +35,14 @@ I turn chaos into order: tidy data, tidy code, tidy process. Laravel, Payload an
 
 `Laravel` `Filament` `PHP` `Livewire` `Next.js` `Payload CMS` `Flutter` `Dart` `TypeScript` `Vue` `Tailwind` `SCSS` `WordPress`
 
+<!-- Hidden until GitHub billing is set up and the daily Action can redraw the grid.
 ## 03 · Commit history
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
   <img alt="theBigTank's contributions in the last year" src="assets/contributions-light.svg" width="100%">
 </picture>
+-->
 
 ---
 
