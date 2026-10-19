@@ -42,14 +42,6 @@ I turn chaos into order: tidy data, tidy code, tidy process. Laravel, Payload an
   <img alt="theBigTank's contributions in the last year" src="assets/contributions-light.svg" width="100%">
 </picture>
 
-## 04 · Open source
-
-| Repository | Language | Stars |
-|---|---|---|
-| [deepseek-glm-proxy](https://github.com/thebigtank/deepseek-glm-proxy) | JavaScript | ★ 1 |
-| [cities-talk-back](https://github.com/thebigtank/cities-talk-back) | HTML | ★ 3 |
-| [soundtrack-podcast](https://github.com/thebigtank/soundtrack-podcast) | SCSS | ★ 3 |
-
 ---
 
 Building something for the real world? **[Let's talk at raymanthis.com ↗](https://raymanthis.com)**
